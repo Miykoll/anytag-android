@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, FourTagsActivity!</string>
+    <string name="app_name">AnyTag</string>
+    <string name="tagid">Tag contents</string>
+    <string name="tagurl">Redirect to URL</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="tip"><b>Tip:</b>\nSome apps can open straight from a URL.\n\nExample: if you enter the mobile web address of a venue on Foursquare, it will open it in the app! This will enable you to do a Foursquare checkin in the Foursquare app straight from a tag! How cool is that, uh?</string>
+    <string name="savesuccess">Save successful</string>
+    <string name="savefailed">Save failed</string>
+    <string name="deletesuccess">Delete successful</string>
+    <string name="deletefailed">Delete failed</string>
+    <string name="pickbookmark">Bookmarks</string>
+    <string name="about">About</string>
+    <string name="ok">OK</string>
+    <string name="aboutmessage"><b>Who?</b>\nAnyTag is an app by eMich Labs / Michaël Uyttersprot.\n\n<b>What?</b>\nAnyTag allows you to link any NFC tag to any URL. You might have tags that already have content written to it you can\'t change. Using this app, you can map it to a URL.\n\nSome Android apps detect URLs and can open the contents of that URL themselves.\n\nExample: the mobile web address of a Foursquare venue can open the venue in the Foursquare app. Linking your tag to that address will allow you to do a checkin straight from a NFC tag. How cool is that?\n\n<b>What does it work with?</b>\nAnyTag works using that tag UUID. It has been tested with Touchatag, GVB ticket, OPUS card, MoBiB card and the Belgian passport.\nIf you have tested it successfully with other cards, please add it to the comments in the Android Market.</string>
+    <string name="empty">You did not associate any tags yet.\nPlease scan a tag in order to associate it.\n\nPress the menu key for more information.</string>
+</resources>
